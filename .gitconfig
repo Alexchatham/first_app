@@ -1,0 +1,10 @@
+[user]
+	name = Alex Chatham
+	email = Alexchatham@gmail.com
+[alias]
+	co = chechout
+[core]
+	editor = gvim -f
+[github]
+	user = Alexchatham
+	token = 0510a6cd547898499a90e23358f1b814
